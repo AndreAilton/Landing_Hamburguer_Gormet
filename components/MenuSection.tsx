@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import { MenuItem } from '../types';
 import { Button } from './Button';
 import { ShoppingCart, UtensilsCrossed, Beer, Sandwich } from 'lucide-react';
 import { useCart } from '../contexts/CartContext';
